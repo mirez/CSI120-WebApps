@@ -1,4 +1,4 @@
-The target ardience of our web application are people who need information on movies.
+The target audience of our web application are people who need information on movies.
 Possibly which movie to watch or see if it's been getting good feedbaack from tweets.
 
 It asks the user to enter filters, based on those filters it brings in tweets from the twitter api.
